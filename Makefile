@@ -1,4 +1,4 @@
-run:
+run: compile
 	python -m SimpleHTTPServer
 
 compile:
